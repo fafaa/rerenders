@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Excersise for Rerenders, useCallback, memo and useMemo
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Project was generated with ` npm create vite@latest`.
